@@ -11,10 +11,13 @@ body {
     background-color: #000205;
 }
 header {
-    background-color: #4CAF50;
     color: white;
     padding: 1rem;
     text-align: center;
+}
+
+header img {
+    width: 70%;
 }
 main {
     padding: 2rem;
