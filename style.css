@@ -10,6 +10,11 @@ body {
     padding: 0;
     background-color: #000205;
 }
+
+p {
+    color: #FFFFFF;
+    margin: 0 auto;
+}
 header {
     color: white;
     padding: 1rem;
