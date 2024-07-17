@@ -28,6 +28,10 @@ header {
 header img {
     width: 200px;
 }
+
+header p {
+    padding: 2rem 0;
+}
 main {
     padding: 2rem;
 }
