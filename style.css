@@ -11,9 +11,10 @@ body {
     background-color: #000205;
 }
 
-main p {
-    color: #FFFFFF;
-    margin: 0 auto;
+main  {
+    display: flex;
+    justify-content: center;
+    color: #ffe261;
 }
 header {
     color: white;
