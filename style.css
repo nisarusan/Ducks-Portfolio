@@ -6,9 +6,9 @@
 
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #000205;
 }
 header {
     background-color: #4CAF50;
